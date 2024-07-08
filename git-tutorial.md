@@ -1,7 +1,7 @@
 # gitのコマンド
 
 ## 設定,確認系
-- git init
+- git init<br>
   gitの初期化, 設定の開始
 - git status
   ワークツリーのステータスの表示

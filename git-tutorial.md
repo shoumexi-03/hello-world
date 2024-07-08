@@ -16,6 +16,4 @@
 -git checkout
 -git reset
 -git revert
--git rm
-
     

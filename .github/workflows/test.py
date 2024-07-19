@@ -18,4 +18,4 @@ class Example3(   object ):
                        Indentation in multiline strings should not be touched.
 Only actual code should be reindented.
 """
-                    return (sys.path, some_string)
+         return (sys.path, some_string)
